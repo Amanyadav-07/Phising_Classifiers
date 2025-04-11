@@ -1,0 +1,5 @@
+setup.py
+phishing_project.egg-info/PKG-INFO
+phishing_project.egg-info/SOURCES.txt
+phishing_project.egg-info/dependency_links.txt
+phishing_project.egg-info/top_level.txt
